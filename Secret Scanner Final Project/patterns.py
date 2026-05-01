@@ -1,5 +1,6 @@
 import re
 
+# Define regex patterns for various types of secrets
 PATTERNS = {
     'Google API Key': re.compile(r"AIza[0-9A-Za-z\-_]{35}"),
     'AWS Access Key ID': re.compile(r"AKIA[0-9A-Z]{16}"),
