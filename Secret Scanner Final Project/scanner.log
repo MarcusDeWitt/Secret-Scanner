@@ -1,0 +1,23 @@
+2026-05-01 14:34:19,915 - ERROR - Fatal error: Invalid file or directory path
+2026-05-01 14:34:27,475 - INFO - Password found in C:\Users\marcus dewitt\OneDrive\Documents\Secret Scanner Final Project\testing.txt at line 3: [Google API Key] test_secrets.txt:3
+2026-05-01 14:34:27,475 - INFO - Google API Key found in C:\Users\marcus dewitt\OneDrive\Documents\Secret Scanner Final Project\testing.txt at line 4: AIzaSyA-FAKEKEY1234567890abcdefABCDEF12
+2026-05-01 14:34:27,475 - INFO - Password found in C:\Users\marcus dewitt\OneDrive\Documents\Secret Scanner Final Project\testing.txt at line 4:   → AIzaSyA-FAKEKEY1234567890abcdefABCDEF12345
+2026-05-01 14:34:27,475 - INFO - Password found in C:\Users\marcus dewitt\OneDrive\Documents\Secret Scanner Final Project\testing.txt at line 6: [AWS Access Key ID] test_secrets.txt:5
+2026-05-01 14:34:27,476 - INFO - AWS Secret Key found in C:\Users\marcus dewitt\OneDrive\Documents\Secret Scanner Final Project\testing.txt at line 7: AKIA1234567890ABCDEF
+2026-05-01 14:34:27,476 - INFO - Password found in C:\Users\marcus dewitt\OneDrive\Documents\Secret Scanner Final Project\testing.txt at line 9: [Password Assignment] test_secrets.txt:7
+2026-05-01 14:34:27,476 - INFO - Password found in C:\Users\marcus dewitt\OneDrive\Documents\Secret Scanner Final Project\testing.txt at line 10:   → password = "MySecret123!"
+2026-05-01 14:34:27,476 - INFO - Password found in C:\Users\marcus dewitt\OneDrive\Documents\Secret Scanner Final Project\testing.txt at line 12: [Slack Token] test_secrets.txt:9
+2026-05-01 14:34:27,476 - INFO - Password found in C:\Users\marcus dewitt\OneDrive\Documents\Secret Scanner Final Project\testing.txt at line 15: [Private Key] test_secrets.txt:11
+2026-05-01 14:34:27,476 - INFO - Private Key found in C:\Users\marcus dewitt\OneDrive\Documents\Secret Scanner Final Project\testing.txt at line 16: -----BEGIN RSA PRIVATE KEY-----
+2026-05-01 14:36:39,113 - INFO - Google API Key found in C:\Users\marcus dewitt\OneDrive\Documents\Secret Scanner Final Project\testing.py at line 3: AIzaSyA-FAKEKEY1234567890abcdefABCDEF12
+2026-05-01 14:36:39,113 - INFO - Password found in C:\Users\marcus dewitt\OneDrive\Documents\Secret Scanner Final Project\testing.py at line 3: google_api_key = "AIzaSyA-FAKEKEY1234567890abcdefABCDEF12345"
+2026-05-01 14:36:39,113 - INFO - AWS Secret Key found in C:\Users\marcus dewitt\OneDrive\Documents\Secret Scanner Final Project\testing.py at line 5: AKIA1234567890ABCDEF
+2026-05-01 14:36:39,113 - INFO - Password found in C:\Users\marcus dewitt\OneDrive\Documents\Secret Scanner Final Project\testing.py at line 5: aws_access_key = "AKIA1234567890ABCDEF"
+2026-05-01 14:36:39,113 - INFO - Password found in C:\Users\marcus dewitt\OneDrive\Documents\Secret Scanner Final Project\testing.py at line 7: password = "MySecret123!"
+2026-05-01 14:36:39,113 - INFO - Private Key found in C:\Users\marcus dewitt\OneDrive\Documents\Secret Scanner Final Project\testing.py at line 11: -----BEGIN RSA PRIVATE KEY-----
+2026-05-01 14:36:39,113 - INFO - Password found in C:\Users\marcus dewitt\OneDrive\Documents\Secret Scanner Final Project\testing.py at line 12: MIIEpAIBAAKCAQEA7FakeKeyDataForTestingOnlyDontUseInRealLife
+2026-05-01 14:37:36,735 - INFO - Google API Key found in C:\Users\marcus dewitt\OneDrive\Documents\Secret Scanner Final Project\testing.py at line 3: AIzaSyA-FAKEKEY1234567890abcdefABCDEF12
+2026-05-01 14:37:36,735 - INFO - AWS Access Key ID found in C:\Users\marcus dewitt\OneDrive\Documents\Secret Scanner Final Project\testing.py at line 5: AKIA1234567890ABCDEF
+2026-05-01 14:37:36,735 - INFO - Password Assignment found in C:\Users\marcus dewitt\OneDrive\Documents\Secret Scanner Final Project\testing.py at line 7: password = "MySecret123!"
+2026-05-01 14:37:36,735 - INFO - Slack Token found in C:\Users\marcus dewitt\OneDrive\Documents\Secret Scanner Final Project\testing.py at line 9: xoxb-1234567890-abcdefghijklmnop
+2026-05-01 14:37:36,735 - INFO - Private Key found in C:\Users\marcus dewitt\OneDrive\Documents\Secret Scanner Final Project\testing.py at line 11: -----BEGIN RSA PRIVATE KEY-----
