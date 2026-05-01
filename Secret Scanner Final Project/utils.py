@@ -1,5 +1,6 @@
 import os
 
+# Utility functions for the secret scanner
 def get_file(file_path):
     if not file_path:
         file_path = input("Please enter the file path to scan: ")
